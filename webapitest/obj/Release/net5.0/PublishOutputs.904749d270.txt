@@ -1,0 +1,11 @@
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\webapitest.exe
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\appsettings.json
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\webapitest.dll
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\webapitest.deps.json
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\webapitest.runtimeconfig.json
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\webapitest.pdb
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cicek.a\Downloads\myproject\webapitest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

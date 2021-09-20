@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\cicek.a\\downloads\\myproject\\webapitest\\webapitest.csproj": {}
+    "C:\\Users\\cicek.a\\Downloads\\myproject\\webapitest\\webapitest.csproj": {}
   },
   "projects": {
-    "C:\\users\\cicek.a\\downloads\\myproject\\webapitest\\webapitest.csproj": {
+    "C:\\Users\\cicek.a\\Downloads\\myproject\\webapitest\\webapitest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\cicek.a\\downloads\\myproject\\webapitest\\webapitest.csproj",
+        "projectUniqueName": "C:\\Users\\cicek.a\\Downloads\\myproject\\webapitest\\webapitest.csproj",
         "projectName": "webapitest",
-        "projectPath": "C:\\users\\cicek.a\\downloads\\myproject\\webapitest\\webapitest.csproj",
+        "projectPath": "C:\\Users\\cicek.a\\Downloads\\myproject\\webapitest\\webapitest.csproj",
         "packagesPath": "C:\\Users\\cicek.a\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\cicek.a\\downloads\\myproject\\webapitest\\obj\\",
+        "outputPath": "C:\\Users\\cicek.a\\Downloads\\myproject\\webapitest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
